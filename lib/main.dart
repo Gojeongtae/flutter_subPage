@@ -57,7 +57,7 @@ class SecondPage extends StatelessWidget{
         child: Center(
           child: ElevatedButton(
             onPressed: (){},
-            child: Text('돌아가기'),
+            child: Text('돌아가기'), //git test
           ),
         ),
       ),
